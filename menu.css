@@ -1,0 +1,28 @@
+#menu {
+    position: fixed;
+    left: -110px;
+    width: 100px;
+    top: 50px;
+    padding: 5px;
+    background-color: antiquewhite;
+    transition: 2s;
+}
+
+.but {
+    width: 100%;
+}
+
+.but1 {
+    width: 50px;
+    right: -50px;
+    position: absolute;
+    
+}
+
+#open {
+    top: 0px;   
+}
+
+#close {
+    bottom: 0px;
+}
